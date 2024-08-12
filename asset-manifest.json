@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PRISMA/static/css/main.be8c7e86.css",
+    "main.js": "/PRISMA/static/js/main.0d884f9e.js",
+    "static/media/bg.jpg": "/PRISMA/static/media/bg.f37d7a22e0117836e737.jpg",
+    "index.html": "/PRISMA/index.html",
+    "main.be8c7e86.css.map": "/PRISMA/static/css/main.be8c7e86.css.map",
+    "main.0d884f9e.js.map": "/PRISMA/static/js/main.0d884f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8c7e86.css",
+    "static/js/main.0d884f9e.js"
+  ]
+}
